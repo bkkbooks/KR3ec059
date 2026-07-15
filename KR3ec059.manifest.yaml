@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ec059/v1
 canonical_location: https://kanripo.org/bkk/KR3ec059/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 本草害利
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ec059_000.yaml, hash: 'sha256:c5712970783b73d16e66edded717820fc54a4f4e6a18dfba2f7d94a7173480be'}
+  - {seq: 0, filename: KR3ec059_000.yaml, hash: 'sha256:0dba97935a3a4f0c082c915b1333280fa6af03ce2b5c4be94d59b54677bcce54'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec059_000.markers.yaml, hash: 'sha256:5b542cff0e6bbc755585529cd4c64436b5a29683251a980684f9da803b3e9e76'}
+  - {seq: 0, role: markers, filename: assets/KR3ec059_000.markers.yaml, hash: 'sha256:85661ab362888e3963baefb6f0d080695eaf0a8e8e88ca685404ff6af8005f9f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -4401,4 +4401,7 @@ table_of_contents:
   label: 紫衣胡桃
   type: section
   level: 3
-hash: sha256:eccc1158697c71f2d947a2d1606e1b53706489d66f6ba7b2ad44783275e8fd67
+hash: sha256:f6a991260a16c32bb35e38d4d08cce6753bf7ef61535c368c7ab49266f7ed1d2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
