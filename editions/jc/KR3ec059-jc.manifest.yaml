@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ec059_000-jc.yaml, hash: 'sha256:c5712970783b73d16e66edded717820fc54a4f4e6a18dfba2f7d94a7173480be'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec059_000-jc.markers.yaml, hash: 'sha256:a750155dd65f5aec15894dc7110ec2ad7b919ccf7e59fa2457ce33d6ce7d1d79'}
+  - {seq: 0, role: markers, filename: assets/KR3ec059_000-jc.markers.yaml, hash: 'sha256:1b7072678f8316ea1cbd17df127028a3bb53e340476280076614922bfcd91579'}
 table_of_contents:
 - ref:
     seq: 0
@@ -4401,4 +4401,4 @@ table_of_contents:
   label: 紫衣胡桃
   type: section
   level: 3
-hash: sha256:e0d7590cf7bd765ff92a947a4f3c7c9c24d1bb492e0df7ed5b95b1df89206977
+hash: sha256:831be8ee4102df80278f040fbb4573f59645502859ca1ecfa6b3294dc658443a
